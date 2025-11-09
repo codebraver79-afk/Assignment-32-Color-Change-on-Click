@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+button{
+border-radius: 7px;
+margin:30px;
+padding:40px
+}
+#red{
+    position:absolute;
+    left:400px
+}
+
+#green{
+    position:absolute;
+    left:700px
+}
+#blue{
+    position:absolute;
+    left:1000px
+}
+#reset{
+    position:absolute;
+    top:400px;
+    left:680px
+
+}
